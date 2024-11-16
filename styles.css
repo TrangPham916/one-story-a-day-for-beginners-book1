@@ -18,8 +18,8 @@ body {
 }
 
 #flipbook {
-    min-width: 30vw; /* Sử dụng 90% chiều rộng màn hình */
-    height: 90vh; /* Sử dụng 80% chiều cao màn hình */
+    width: 100vw; /* Sử dụng 90% chiều rộng màn hình */
+    height: 100vh; /* Sử dụng 80% chiều cao màn hình */
     position: relative;
     perspective: 2000px; /* Hiệu ứng 3D sâu hơn */
     overflow: hidden; /* Ẩn phần thừa */
